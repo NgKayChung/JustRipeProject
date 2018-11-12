@@ -67,6 +67,7 @@
     <Compile Include="StockHandler.cs" />
     <Compile Include="Task.cs" />
     <Compile Include="TaskHandler.cs" />
+    <Compile Include="Vechicle.cs" />
     <EmbeddedResource Include="LoginScreen.resx">
       <DependentUpon>LoginScreen.cs</DependentUpon>
     </EmbeddedResource>

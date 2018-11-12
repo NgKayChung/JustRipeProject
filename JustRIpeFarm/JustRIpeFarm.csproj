@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbConnector.cs" />
+    <Compile Include="Fertilizer.cs" />
     <Compile Include="Labourer.cs" />
     <Compile Include="LabourerHandler.cs" />
     <Compile Include="LoginScreen.cs">

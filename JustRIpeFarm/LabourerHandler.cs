@@ -11,7 +11,7 @@ namespace JustRIpeFarm
     {
         public int addNewLabourer(MySqlConnection conn, Labourer labourer)
         {
-            string sql = "INSERT INTO labourer (name, age, gender) "
+            string sql = "INSERT INTO labourer (name, age, gender) " 
                 + "VALUES ('" + labourer.Name + "', " + labourer.Age
                 + " , '" + labourer.Gender + "')";
 
